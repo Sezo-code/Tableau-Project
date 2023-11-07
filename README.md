@@ -27,8 +27,10 @@ MntGoldProds: Amount spent on gold in last 2 years
 
 # The Dahboard 
 ![CUSTOMER DASHBOARD 2023](https://github.com/Sezo-code/Tableau-Project/assets/69414657/66001d75-bea1-4cad-918f-0a9959815078)
-## Promotion
+### This is the Link to view this Dashboard Report :
+https://public.tableau.com/views/CUSTOMERPERSONALITYANALYSES2023/CUSTOMERDASHBOARD2023?:language=en-US&:display_count=n&:origin=viz_share_link
 
+## Promotion
 NumDealsPurchases: Number of purchases made with a discount
 AcceptedCmp1: 1 if customer accepted the offer in the 1st campaign, 0 otherwise
 AcceptedCmp2: 1 if customer accepted the offer in the 2nd campaign, 0 otherwise
@@ -50,5 +52,3 @@ The dataset for this project is provided by Dr. Omar Romero-Hernandez.
 ## Solution
 You can take help from following link to know more about the approach to solve this problem.
 
-### This is the Link to view this Dashboard Report :
-https://public.tableau.com/views/CUSTOMERPERSONALITYANALYSES2023/CUSTOMERDASHBOARD2023?:language=en-US&:display_count=n&:origin=viz_share_link
