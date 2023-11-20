@@ -27,7 +27,7 @@ MntGoldProds: Amount spent on gold in last 2 years
 
 # The Dahboard 
 ![CUSTOMER DASHBOARD 2023](https://github.com/Sezo-code/Tableau-Project/assets/69414657/66001d75-bea1-4cad-918f-0a9959815078)
-### This is the Link to view this Dashboard Report :
+### This is the Link to view this Dashboard :
 https://public.tableau.com/views/CUSTOMERPERSONALITYANALYSES2023/CUSTOMERDASHBOARD2023?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Promotion
