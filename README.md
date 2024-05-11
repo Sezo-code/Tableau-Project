@@ -28,10 +28,15 @@ Complain: 1 if the customer complained in the last 2 years, 0 otherwise
 
 ## Products
 MntWines: Amount spent on wine in last 2 years
+
 MntFruits: Amount spent on fruits in last 2 years
+
 MntMeatProducts: Amount spent on meat in last 2 years
+
 MntFishProducts: Amount spent on fish in last 2 years
+
 MntSweetProducts: Amount spent on sweets in last 2 years
+
 MntGoldProds: Amount spent on gold in last 2 years
 
 # The Dahboard 
